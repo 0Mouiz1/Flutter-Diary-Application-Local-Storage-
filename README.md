@@ -4,7 +4,7 @@
 
 👉App Works in Offline Mode<br>
 👉List Of Student<br>
-👉Recipe Detail Screen (Name, Academic Details, Personal, Institute ID number)<br>
+👉Student Details Screen (Name, Academic Details, Personal, Institute ID number)<br>
 👉Search Bar<br>
 👉Warning list<br>
 👉Dark Mode<br>
