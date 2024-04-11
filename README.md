@@ -1,15 +1,15 @@
 # 📲 Dairy_book_local_database_for_hostel_wardens
 
-➡️Complete Dairy Book with Local Database Using sqflite Flutter
+➡️Complete Dairy Book with Local Database Using SQLite Flutter
 
-👉App Works in Offline Mode
-👉List Of Student
-👉Recipe Detail Screen (Name , Academic Details, Personal, Institute ID number)
-👉Search Bar
-👉Warning list
-👉Dark Mode
-👉Splash Screen
-👉Beautiful UI Design
-👉Images Loaded from Locally [Camera or Gallery]
-👉Support Both Android And IOS
+👉App Works in Offline Mode<br>
+👉List Of Student<br>
+👉Recipe Detail Screen (Name, Academic Details, Personal, Institute ID number)<br>
+👉Search Bar<br>
+👉Warning list<br>
+👉Dark Mode<br>
+👉Splash Screen<br>
+👉Beautiful UI Design<br>
+👉Images Loaded from Locally [Camera or Gallery]<br>
+👉Support Both Android And IOS<br>
 
