@@ -1,12 +1,11 @@
 # 📲 Dairy_book_local_database_for_Record_Keeping
 
-➡️Complete Dairy Book with Local Database Using SQLite Flutter
+➡️Complete Dairy Book with Local Database Using SQFlite Flutter
 
 👉App Works in Offline Mode<br>
 👉List Of Student<br>
 👉Student Details Screen (Name, Academic Details, Personal, Institute ID number)<br>
 👉Search Bar<br>
-👉Warning list<br>
 👉Dark Mode<br>
 👉Splash Screen<br>
 👉Beautiful UI Design<br>
