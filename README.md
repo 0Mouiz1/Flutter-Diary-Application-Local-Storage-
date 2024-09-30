@@ -1,6 +1,6 @@
 # 📲 Dairy_book_local_database_for_Record_Keeping
 
-➡️Complete Dairy Book with Local Database Using SQFlite Flutter
+➡️Simple Dairy Book x Sqflite
 
 👉App Works in Offline Mode<br>
 👉List Of Student<br>
